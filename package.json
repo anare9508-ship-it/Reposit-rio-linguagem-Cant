@@ -1,1 +1,8 @@
+{
+  "name": "cant-language",
+  "version": "1.0.0",
+  "description": "Linguagem de programação web cant (.ca)",
+  "main": "interpreter.js",
+  "author": "Cant-Fundador Botiche"
+}
 
